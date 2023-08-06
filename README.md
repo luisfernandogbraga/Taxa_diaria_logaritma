@@ -1,0 +1,1 @@
+# Taxa_diaria_logaritma
