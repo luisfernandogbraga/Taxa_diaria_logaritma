@@ -1,4 +1,4 @@
-# Taxa_diaria_logaritma
+# Taxa_diaria_logaritmica
 
 
 
